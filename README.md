@@ -55,3 +55,7 @@ order by TotalFishHandled desc;
 #### Tech
 
 MySQL 8.4
+
+---
+
+Built by Vincent Rupp. Shared for portfolio and review purposes; please get in touch before reusing it.
